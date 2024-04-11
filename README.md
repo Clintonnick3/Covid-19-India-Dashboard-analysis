@@ -12,6 +12,9 @@ All intent and purpose data are obtained from diverse sources. with reference to
 3 datasets are marked
 ![kag1](https://github.com/Clintonnick3/Covid-19-India-Dashboard-analysis/assets/129974527/8d26e8c4-d741-441d-bacf-0041f9dc608b)
 
+<!-- Add some space -->
+<br>
+
 ## Next 4 dataset to download [Click me to download](https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data?select=StatewiseTestingDetails.csv)
 
 * Goto the webpage scroll down you can see input data then select **Covid-19 in India** (as shown in the image)
