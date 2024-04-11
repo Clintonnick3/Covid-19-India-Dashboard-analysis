@@ -9,14 +9,31 @@ All intent and purpose data are obtained from diverse sources. with reference to
 
 ## First 3 dataset to download [Click me to download](https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount&select=covid_19_india.csv)
 
-Dataset Downloaded from :
+3 datasets are marked
+![kag1](https://github.com/Clintonnick3/Covid-19-India-Dashboard-analysis/assets/129974527/8d26e8c4-d741-441d-bacf-0041f9dc608b)
 
-https://www.kaggle.com/datasets/sudalairajkumar/covid19-in-india?datasetId=557629&sortBy=voteCount&select=covid_19_india.csv
+## Next 4 dataset to download [Click me to download](https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data?select=StatewiseTestingDetails.csv)
 
-https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data?select=StatewiseTestingDetails.csv
+* Goto the webpage scroll down you can see input data then select **Covid-19 in India** (as shown in the image)
+![kag2](https://github.com/Clintonnick3/Covid-19-India-Dashboard-analysis/assets/129974527/9d6c6137-68b0-47bd-9e2e-3f870f7f0eaf)
 
-India state shapefile downloaded from :
+* Then [Download](https://www.kaggle.com/code/anshuls235/covid19-explained-through-visualizations/data?select=StatewiseTestingDetails.csv) the first 4 files as shown in image.
+![kag3](https://github.com/Clintonnick3/Covid-19-India-Dashboard-analysis/assets/129974527/b830f0c3-5d2f-450e-adc3-76362ab25294)
 
-https://geographicalanalysis.com/download-free-india-shapefile-including-kashmir-and-ladakh/
+## Final dataset is a shapefile of states in India [Want shapefile?](https://geographicalanalysis.com/download-free-india-shapefile-including-kashmir-and-ladakh/)
+
+* Scroll down to find India states [Shapefile](https://geographicalanalysis.com/download-free-india-shapefile-including-kashmir-and-ladakh/) and hit download button.
+
+Thus Obtaining the Dataset has completed!
+
+
+
+
+
+
+
+
+
+
 
 dashboard link: https://public.tableau.com/app/profile/clinton.motha.n/viz/Covid19dashboard_17127777302180/Dashboard1?publish=yes
