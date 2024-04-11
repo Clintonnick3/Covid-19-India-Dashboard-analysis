@@ -40,14 +40,19 @@ All intent and purpose data are obtained from diverse sources. with reference to
 
 Thus Obtaining the Dataset has completed!
 
+# Objectives :
+* Using multiple data sources from different website.
+* Using data Blending.
+* Shape file is used to create state map of India.
+* Used **Measure names** and **Dual Axis** to create multiple line charts.
+* Pie charts are created for evaluations.
 
+<!-- Add some space -->
+<br>
 
+[Want to take a look at my dashboard?](https://public.tableau.com/app/profile/clinton.motha.n/viz/Covid19dashboard_17127777302180/Dashboard1?publish=yes)
 
+<!-- Add some space -->
+<br>
 
-
-
-
-
-
-
-dashboard link: https://public.tableau.com/app/profile/clinton.motha.n/viz/Covid19dashboard_17127777302180/Dashboard1?publish=yes
+[Want to Surf over my Projects?](https://github.com/Clintonnick3)
